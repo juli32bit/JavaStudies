@@ -20,5 +20,6 @@ public class Exercicio07 {
         } else if (x > 0 && y < 0){
             System.out.println("Q4");
         }
+        scanner.close();
     }
 }
